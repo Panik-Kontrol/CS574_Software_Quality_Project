@@ -6,3 +6,8 @@ Those who can see repo:
 Andrew Graff
 Hailee Kiesecker
 Elena Sherman --ensure invitation is sent to her github esherman77
+
+Potential Projects:
+--------------------------
+https://github.com/tito/2048 - 5.4 LOC
+
